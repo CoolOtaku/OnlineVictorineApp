@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Online-Victorine</string>
+    <string name="text_todo_search">Введіть текст для пошуку</string>
+    <string name="online_victorine">Онлайн - вікторини</string>
+    <string name="ivanka_knignitska">Іванка Кнігніцька</string>
+    <string name="developer">Розробник</string>
+    <string name="instagram_url">https://www.instagram.com/ivanka_knignitska_/</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+
+    <string name="result_badly">Трішки погано, але не розчаровуйся</string>
+    <string name="result_normal">Нормально, не поганий результат!</string>
+    <string name="result_no_bad">Хороший результат, так тримати!</string>
+    <string name="result_perfect">Perfect!!! Ви пройшли тест ідеально!</string>
+
+    <string name="total_percentage">Загальний відсоток правильних відповідей: </string>
+    <string name="the_number_of_correct_answers">Кількість правильних відповідей: </string>
+    <string name="number_of_questions">Кількість запитань: </string>
+
+    <string name="end_test">Закінчити тест</string>
+    <string name="from">із</string>
+    <string name="internet_error">Вибачте виникла якась помилка, можливо проблеми з мережою 😥</string>
+
+    <string name="welcome">Вітаю в додатку "Онлайн вікторини", щоб продовжити потрібно авторизуватися!</string>
+    <string name="logout">Вийти з профілю</string>
+    <string name="enable_logout">Ви дійсно хочете вийти з профілю?</string>
+    <string name="profile">Профіль</string>
+
+    <string name="close_test">Закрити тест</string>
+    <string name="exit_test">Зараз ви проходете тест, ви дійсно хочете його закрити і припинити проходження?</string>
+
+    <string name="question_count">Загальна кількість пройдених запитань: </string>
+    <string name="question_true">Загальна кількість правельних відповідей на запитання: </string>
+    <string name="question_false">Загальна кількість не правельних відповідей: </string>
+    <string name="test_count">Загальна кількість пройдених тестів: </string>
+    <string name="total_interest">Загальний відсоток правельності: </string>
+
+    <string name="perfectly_res">Кількість відмінних результатів: </string>
+    <string name="not_bad_res">Кількість хороших результатів: </string>
+    <string name="normal_res">Кількість нормальних результатів: </string>
+    <string name="badly_res">Кількість поганих результатів: </string>
+
+</resources>
