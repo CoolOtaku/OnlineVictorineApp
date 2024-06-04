@@ -12,10 +12,7 @@ This is a course project that I was ordered. Continuation of the previous work o
 
 #
 
-<b>EN:</b>
-### Screenshots of the app:
-<b>UA:</b>
-### Скріншоти додатка:
+### Screenshots:
 <p>
   <img src="screens/Screenshot_20220406-010001.png" height="400px"/>
   <img src="screens/Screenshot_20220406-010017.png" height="400px"/>
