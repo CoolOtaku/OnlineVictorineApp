@@ -36,7 +36,7 @@ In order for the application to cooperate with the **Google** service. **Google*
 - Image caching and rendering via [**Picasso**](https://square.github.io/picasso/)
 - Using [**Retrofit**](https://square.github.io/retrofit/) to communicate with the site's **API**
 - Working with the **JSON** format parsing into a regular object
-- Using the element interface to display a list of elements from an array (**RecyclerView**)
+- Using the element interface to display a list of elements from an array ([**RecyclerView**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView))
 - Creating a quiz game in **Java**
 - Authorization through **Google**
 - Convenient navigation and information search
@@ -46,7 +46,7 @@ In order for the application to cooperate with the **Google** service. **Google*
 - Кешування та відображення зображення через [**Picasso**](https://square.github.io/picasso/)
 - Використання [**Retrofit**](https://square.github.io/retrofit/) для спілкування з **API** сайту
 - Робота з форматом **JSON** парсинг в звичайний об'єкт
-- Використання інтерфейсу елемента для відображення списку елементів з масиву (**RecyclerView**)
+- Використання інтерфейсу елемента для відображення списку елементів з масиву ([**RecyclerView**](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView))
 - Створення гри-вікторини на **Java**
 - Авторизація через **Google**
 - Зручна навігація та пошук інформації
